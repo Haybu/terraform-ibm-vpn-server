@@ -6,12 +6,13 @@ variable "ibmcloud_api_key" {
 variable "region" {
   type        = string
   description = "The IBM Cloud region where the resources will be provisioned."
+  default="us-south"
 }
 
 variable "resource_label" {                   
   type        = string                        
   description = "The label for the resource to which the vpe will be connected. Used as a tag and as part of the vpe name."
-  default     = "vpn"
+  default     = "vpn_mvp"
 }
 
 variable "resource_group_name" {
@@ -19,6 +20,10 @@ variable "resource_group_name" {
   description = "The name of the IBM Cloud resource group where the resources will be provisioned."
 }
 
+variable "certificate_manager_name" {
+  type        = string
+  description = "The certificate manager instance name."
+}
 variable "certificate_manager_id" {
   type        = string
   description = "The certificate manager instance id."

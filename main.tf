@@ -1,4 +1,9 @@
 
+provider ibm {
+  ibmcloud_api_key      = var.ibmcloud_api_key
+  region                = var.region
+  ibmcloud_timeout      = 60
+}
 locals {
   prefix_name     = var.name_prefix != "" ? var.name_prefix : var.resource_group_name
   name            = lower(replace("${local.prefix_name}-vpn-${var.resource_label}", "_", "-"))
@@ -70,8 +75,16 @@ data "local_file" "client_key" {
     filename = "${path.root}/certificates/private/client1.vpn.ibm.com.key"
 }
 
+data "ibm_resource_instance" "cm" {
+    name     = var.certificate_manager_name
+    service  = "cloudcerts"
+    location = var.region
+    resource_group_id = data.ibm_resource_group.resource_group.id
+}
+
 resource "ibm_certificate_manager_import" "server_cert" {
-  certificate_manager_instance_id = var.certificate_manager_id
+  #certificate_manager_instance_id = var.certificate_manager_id
+  certificate_manager_instance_id = data.ibm_resource_instance.cm.id
   name                            = "vpn-server-cert"
   description                     = "VPN server certificate"
   data = {
@@ -82,7 +95,8 @@ resource "ibm_certificate_manager_import" "server_cert" {
 }
 
 resource "ibm_certificate_manager_import" "client_cert" {
-  certificate_manager_instance_id = var.certificate_manager_id
+  #certificate_manager_instance_id = var.certificate_manager_id
+  certificate_manager_instance_id = data.ibm_resource_instance.cm.id
   name                            = "vpn-client-cert"
   description                     = "VPN client certificate"
   data = {
