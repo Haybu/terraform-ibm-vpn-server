@@ -18,3 +18,10 @@ test/stages/easy-rsa
 test/stages/*.ovpn
 
 module
+terraform.tfvars
+.terraform.*
+.terraform/
+.DS_Store
+terraform.*.*
+terraform.tfstate
+terraform.tfvars
