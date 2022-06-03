@@ -1,0 +1,9 @@
+ibmcloud_api_key="KkIwcBmWeaLQbcoAN4mPbQOTq--WE0VfPQTDSdNTQGdA"
+resource_group_name="provider-voice-cloud-dev"
+certificate_manager_name="haybu-multizone-certmgr"
+#certificate_manager_id="crn:v1:bluemix:public:cloudcerts:us-south:a/e1c4f6d9453d35faede032ebaf6589f5:e008a396-72ba-4992-8401-145fc055b949::"
+vpc_id="r006-5969f054-e1f1-43b9-8d32-87c47d39f58e"
+subnet_ids=["0717-afad34b6-6fe5-471b-a336-bb879fa64be7","0727-d602c224-694b-467a-8c6d-15339356118a","0737-fbbf5d5d-cc1a-4115-8f5a-f0815f856948","0717-bab9f471-60a1-42ac-9242-46c4a01cd373"]
+name_prefix="haybu-multizone"
+vpn_server_proto="tcp"
+region="us-south"

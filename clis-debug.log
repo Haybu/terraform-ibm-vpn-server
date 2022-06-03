@@ -54,3 +54,171 @@
 /Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
 /Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
 /Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Installing plugin
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"wncltmdvhrrfffjn"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"qlzveahvvjrplayb"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Input: {"bin_dir":"/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2","clis":"ibmcloud-is","uuid":"qlzveahvvjrplayb"}
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Detected os type: macos
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (jq) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Determining release
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) Found release: v2.7.0
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud) CLI already provided in bin_dir
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (ibmcloud-infrastructure-service) Plugin already installed: infrastructure-service
+/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/.terraform/modules/clis/scripts: (all) Completed: {"status": "success", "message": "success", "type": "", "bin_dir": "/Users/hmohamed/github/ibm/clients/Humana/terraform-ibm-vpn-server/bin2"}

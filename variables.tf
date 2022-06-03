@@ -27,6 +27,7 @@ variable "certificate_manager_name" {
 variable "certificate_manager_id" {
   type        = string
   description = "The certificate manager instance id."
+  default = ""
 }
 
 variable "vpc_id" {
