@@ -1,9 +1,9 @@
-ibmcloud_api_key="KkIwcBmWeaLQbcoAN4mPbQOTq--WE0VfPQTDSdNTQGdA"
+ibmcloud_api_key="D-zDx8_13TFnPYfEJVVMe8TGpfKWu21DnQMljz-EN7Ng"
 resource_group_name="provider-voice-cloud-dev"
-certificate_manager_name="haybu-multizone-certmgr"
+certificate_manager_name="soe-nonprod-certmgr"
 #certificate_manager_id="crn:v1:bluemix:public:cloudcerts:us-south:a/e1c4f6d9453d35faede032ebaf6589f5:e008a396-72ba-4992-8401-145fc055b949::"
-vpc_id="r006-5969f054-e1f1-43b9-8d32-87c47d39f58e"
-subnet_ids=["0717-afad34b6-6fe5-471b-a336-bb879fa64be7","0727-d602c224-694b-467a-8c6d-15339356118a","0737-fbbf5d5d-cc1a-4115-8f5a-f0815f856948","0717-bab9f471-60a1-42ac-9242-46c4a01cd373"]
-name_prefix="haybu-multizone"
+vpc_id="r014-7226544a-6d4f-4d01-8d03-1bc5938338da"
+subnet_ids=["0757-147b439b-525e-40d0-a183-20a0b5d1b634","0767-60904806-ca05-4b1d-b705-ad05ea3420c8","0777-bda7ddbd-fec1-4f47-ba1c-db78ab4cc100","0757-91731b6b-9b6e-4a76-a11e-0dc31b34666e"]
+name_prefix="soe-nonprod"
 vpn_server_proto="tcp"
-region="us-south"
+region="us-east"
